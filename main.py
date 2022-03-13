@@ -16,4 +16,6 @@ r_weight = float(weight)
 
 bmi = r_weight / (r_height * r_height)
 
-print(bmi)
+bmi_final = int(bmi)
+
+print(bmi_final)
