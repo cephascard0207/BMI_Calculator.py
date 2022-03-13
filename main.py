@@ -2,6 +2,9 @@
 #BODY-MASS-INDEX
 #Created by Cephas Cardozo, 12/03/2022
 
+print("BMI CALCULATOR")
+print("v1.0\n")
+
 height = input("Enter your height in metres: ")
 weight = input("Enter your weight in  kilograms: ")
 
